@@ -14,18 +14,17 @@ conda activate mchatbot
 
 ## Image 1: Beautiful Landscape
 
-![Beautiful Landscape](images/landscape.jpg)
 
 This stunning landscape showcases the beauty of nature with its rolling hills and vibrant colors.
 
 ## Image 2: Cute Animal
 
-![Cute Animal](images/PCS.jpeg)
+![Cute Animal](Nepal/PCS.jpeg)
 
 Meet our adorable furry friend! This charming creature is sure to brighten your day.
 
 ## Image 3: Abstract Art
 
-![Abstract Art](images/ada.png.jpeg)
+![Abstract Art](Nepal/ada.png)
 
 Explore the world of abstract art with this intriguing piece that challenges perception and sparks imagination.
