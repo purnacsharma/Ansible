@@ -13,9 +13,8 @@ list_of_files = [
     "setup.py",
     "research/trials.ipynb",
     "app.py",
-    "store_index.py",
-    "static/.gitkeep",
-    "templates/chat.html"
+    "purna.py",
+    "Purnaa.py"
 
 ]
 
